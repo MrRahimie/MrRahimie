@@ -1,16 +1,83 @@
-## Hi there 👋
 
-<!--
-**MrRahimie/MrRahimie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 About Me
 
-Here are some ideas to get you started:
+🎓 **Bachelor of Computer Science (Software Engineering)**  
+📍 University of Malaya, Kuala Lumpur  
+📧 [muhd.rahimi0211@gmail.com](mailto:muhd.rahimi0211@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-rahimi-sarifuddin)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I’m a curious and creative software engineering student passionate about building digital solutions that make a difference.  
+Currently exploring **Web & Mobile Development**, **Machine Learning**, and **UI/UX Design**.
+
+> 💡 "Code with purpose, learn with curiosity."
+
+---
+
+## 💻 Languages & Technologies
+
+### 🧠 Programming Languages  
+![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-lightgrey?logo=c&logoColor=white)
+
+### 🧩 Frameworks & Tools  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-0078d7?logo=visual-studio-code&logoColor=white)
+
+### 🗃️ Databases  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+- 🧮 **StudyLah App** — Mobile learning app for primary students (Firebase, Android Studio)  
+- 🧠 **Chronic Kidney Disease Prediction** — ML-based health prediction model (Python, Scikit-learn)  
+- 💹 **TradeGPT’s Stock Trading App** — Real-time trading simulation (React + DB integration)  
+- 📱 **EquiLearn App (Hackathon)** — UI/UX prototype focusing on education & mental wellness (Figma)
+
+---
+
+## 🎯 Interests
+
+🌱 Web & Mobile Development  
+🧠 Machine Learning & AI  
+🎨 UI/UX Design  
+⚙️ IoT & Smart Systems  
+🎮 Esports & Tech Communities  
+
+---
+
+## 🏅 Achievements
+
+🏆 Biasiswa Kementerian Menteri Besar Pahang (BKMB) Scholar  
+📜 Dean’s List (Semester 3, GPA 3.94)  
+💡 Hackathon Participant (KICT I-Hax 2023)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-rahimi&show_icons=true&theme=tokyonight" alt="Rahimi's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-rahimi&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+### 🌐 Let's Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-rahimi-sarifuddin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:muhd.rahimi0211@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/muhammad-rahimi"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+⭐ *Thanks for visiting! Feel free to explore my repositories — always learning, always building.*
