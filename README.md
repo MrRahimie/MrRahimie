@@ -7,7 +7,7 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-rahimi-sarifuddin)
 
 🚀 I’m a curious and creative software engineering student passionate about building digital solutions that make a difference.  
-Currently exploring **Web & Mobile Development**, **Machine Learning**, and **UI/UX Design**.
+I enjoy exploring new technologies, solving challenging problems, and continuously improving my skills to create meaningful, user-centered applications.
 
 > 💡 "Code with purpose, learn with curiosity."
 
@@ -48,7 +48,6 @@ Currently exploring **Web & Mobile Development**, **Machine Learning**, and **UI
 
 🌱 Web & Mobile Development  
 🧠 Machine Learning & AI  
-🎨 UI/UX Design  
 ⚙️ IoT & Smart Systems  
 🎮 Esports & Tech Communities  
 
@@ -57,8 +56,16 @@ Currently exploring **Web & Mobile Development**, **Machine Learning**, and **UI
 ## 🏅 Achievements
 
 🏆 Biasiswa Kementerian Menteri Besar Pahang (BKMB) Scholar  
-📜 Dean’s List (Semester 3, GPA 3.94)  
+📜 Dean’s List (Semester 3, 4 & 6)  
 💡 Hackathon Participant (KICT I-Hax 2023)
+
+---
+
+## 📄 Resume
+
+🎓 You can download and view my latest resume here:  
+➡️ [**View My Resume**](https://github.com/user-attachments/files/22938859/RESUME.RAHIMI.pdf)
+
 
 
 ---
