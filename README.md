@@ -1,5 +1,6 @@
 
 # 👨‍💻 About Me
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/5c31bbb0-8429-44cd-8261-6c01602c7330" />
 
 🎓 **Bachelor of Computer Science (Software Engineering)**  
 📍 University of Malaya, Kuala Lumpur  
