@@ -60,14 +60,6 @@ Currently exploring **Web & Mobile Development**, **Machine Learning**, and **UI
 📜 Dean’s List (Semester 3, GPA 3.94)  
 💡 Hackathon Participant (KICT I-Hax 2023)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-rahimi&show_icons=true&theme=tokyonight" alt="Rahimi's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-rahimi&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
-</p>
 
 ---
 
