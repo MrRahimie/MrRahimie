@@ -47,7 +47,7 @@ I enjoy exploring new technologies, solving challenging problems, and continuous
 
 ## 🎯 Interests
 
-🌱 Web & Mobile Development  
+💻 Web & Mobile Development  
 🧠 Machine Learning & AI  
 ⚙️ IoT & Smart Systems  
 🎮 Esports & Tech Communities  
@@ -57,6 +57,7 @@ I enjoy exploring new technologies, solving challenging problems, and continuous
 ## 🏅 Achievements
 
 🏆 Biasiswa Kementerian Menteri Besar Pahang (BKMB) Scholar  
+💫 Bolttern Award 2024 (Best Intern @bolttech)
 📜 Dean’s List (Semester 3, 4 & 6)  
 💡 Hackathon Participant (KICT I-Hax 2023)
 
