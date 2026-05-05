@@ -6,6 +6,7 @@
 📍 University of Malaya, Kuala Lumpur  
 📧 [muhd.rahimi0211@gmail.com](mailto:muhd.rahimi0211@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-rahimi-sarifuddin)
+🔗 [Portfolio](https://rahimi-portfolio.vercel.app)
 
 🚀 I’m a curious and creative software engineering student passionate about building digital solutions that make a difference.  
 I enjoy exploring new technologies, solving challenging problems, and continuously improving my skills to create meaningful, user-centered applications.
